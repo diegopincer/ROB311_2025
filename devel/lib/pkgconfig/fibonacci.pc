@@ -1,0 +1,8 @@
+prefix=/home/diego/ros_workspace/devel
+
+Name: fibonacci
+Description: Description of fibonacci
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,2 @@
+fibonacci:homework_1
+-DCATKIN_DEVEL_PREFIX=/home/diego/ros_workspace/devel -DCMAKE_INSTALL_PREFIX=/home/diego/ros_workspace/install -G Unix Makefiles
