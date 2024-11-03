@@ -1,8 +1,0 @@
-prefix=/home/diego/ros_workspace/devel
-
-Name: homework_1
-Description: Description of homework_1
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
